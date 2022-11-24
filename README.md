@@ -1,36 +1,25 @@
 # Hi 👋
 
-  
-
-  
-
-```javascript
-
-  
-
-console.log('my Name is Galih Adhi Kusuma')
-
-  
-
-```
-
-  
-
-<p>
-
-  
-
-Hi, as you can see up there inside the silly logging. My name is Galih Adhi Kusuma and you can call me Galih. Yes it might be confusing why my username is NoxturneDev instead of GalihDev right? well, tbh we all know that having a nickname is so cool right? so there you go 😁 enough talking and let me introduce my self. Im currently working as Junior Front end web developer, mainly using ReactJs but im interested in Vue also (don't hate me react developer). I'd like to call myself a very passionate coder that loved to craft something. I'd love to make any kind of project, start from some simple portfolio website or some complicated project that require more headache in the development. If you interested to talking to me you can DM me on "[clayzz1.0][instagram]" and ask me anything there 😉
-
-  
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CC2CF7&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;JavaScript+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
+```javascript
+console.log('my Name is Galih Adhi Kusuma')
+```
+
+<p>
+Hi, as you can see up there inside the silly logging. My name is Galih Adhi Kusuma and you can call me Galih. Yes it might be confusing why my username is NoxturneDev instead of GalihDev right? well, tbh we all know that having a nickname is so cool right? so there you go 😁 enough talking and let me introduce my self.
+</p>
+
+<p> 
+ Im currently working as Junior Front end web developer, mainly using ReactJs but im interested in Vue also (Please don't hate me react developers 🙏). I'd like to call myself a very passionate coder that loved to craft something. I'd love to make any kind of project, start from some simple portfolio website or some complicated project that require more headache in the development. If you interested to talking to me you can DM me on my Instagram and ask me anything there 😉
+</p>
   
 
-### Contact me!
+### 📞 Contact me!
 
-[![instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/clayzz1.0")
+[![instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/clayzz1.0)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galih-adhi-kusuma-693368240/)
 
   
