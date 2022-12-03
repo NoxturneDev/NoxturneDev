@@ -5,7 +5,9 @@
 </p>
 
 ```javascript
-console.log('my Name is Galih Adhi Kusuma')
+const name = "Galih Adhi Kusuma"
+const job = "Front-End web developer"
+console.log(`hello my name is ${name} and im currently working as ${job}`)
 ```
 
 <p>
