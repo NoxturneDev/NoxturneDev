@@ -45,7 +45,9 @@ Hi, as you can see up there inside the silly logging. My name is Galih Adhi Kusu
 <img  align="left"  alt="GitHub"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img  width="30px"  align="left"  alt="vscode"  style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img  width="30px"  alt="firebase"  style="padding-right:10px"  align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img  width="30px"  alt="firebase"  style="padding-right:10px"  align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img  width="30px"  alt="nextjs"  style="padding-right:10px"  align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img width="30px" height="30px" alt="tailwind"  style="margin-left:10px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  />
+
 <br />
 
 
