@@ -50,6 +50,6 @@ Hi, as you can see up there inside the silly logging. My name is Galih Adhi Kusu
 
 
 ## Statistic
-
  
-![Top langugage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=shell,css)
+![Top langugage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=shell,ejs,hack,html)
+![Github profile stats](https://github-readme-stats.vercel.app/api?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=contribs,issues)
