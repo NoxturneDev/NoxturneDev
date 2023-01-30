@@ -9,7 +9,7 @@ const job = "Full-stack web developer"
 ### Know more about me !
 
 <p>
-Hi, as you can see up there inside the silly logging. My name is Galih Adhi Kusuma and you can call me Galih. Yes it might be confusing why my username is NoxturneDev instead of GalihDev right? well, tbh we all know that having nickname is so cool right? so there you go 😁 enough talking and let me introduce my self.
+Hi, as you can see up there inside the silly logging. My name is Galih Adhi Kusuma and you can call me Galih. Yes it might be confusing why my username is NoxturneDev instead of GalihDev right? well, tbh we all know that having nickname is so cool right? so there you go 😁 enough talking and let me introduce my self in a proper way.
 </p>
 
 <p> 
