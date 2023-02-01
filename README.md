@@ -12,7 +12,7 @@ Hi, as you can see up there inside the silly logging. My name is Galih Adhi Kusu
 </p>
 
 <p> 
- Im currently working as Junior Front end web developer, mainly using ReactJs but im interested in Vue also (Please don't hate me react developers 🙏). I'd like to call myself a very passionate coder that loved to craft something. I'd love to make any kind of project, start from some simple portfolio website or some complicated project that require more headache in the development. If you interested to talking to me you can DM me on my Instagram and ask me anything there 😉
+ Im currently working as Junior Front end web developer, mainly using ReactJs but im interested in Vue also. I'd like to call myself a very passionate coder that loved to craft something. I'd love to make any kind of project, start from some simple portfolio website or some complicated project that require more headache in the development. If you interested to talking to me you can DM me on my Instagram and ask me anything there 😉
 </p>
   
 
