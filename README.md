@@ -1,8 +1,6 @@
 # Hi 👋
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CC2CF7&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;JavaScript+Enthusiast" alt="Typing SVG" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A200F7&width=435&lines=Full-stack+Developer)](https://git.io/typing-svg)
 
 ```javascript
 const name = "Galih Adhi Kusuma"
