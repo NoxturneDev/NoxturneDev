@@ -2,9 +2,32 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CDAF7&center=true&vCenter=true&width=435&lines=Full-stack+Engineer)](https://git.io/typing-svg)
 
+
+## Statistic
+ 
+![Github profile stats](https://github-readme-stats-sigma-five.vercel.app/api?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=contribs,issues)
+<br />
+![Top langugage stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=ejs,hack,html)
+
+<br />
+<div align="start">
+  <img
+    src="https://git-hub-streak-stats.vercel.app/?user=noxturnedev&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="GitHub streak stats"
+    style="display:inline-block; margin-right:10px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxturnedev&theme=tokyonight&layout=compact&hide_border=true" 
+    height="150" 
+    alt="Top languages stats"
+    style="display:inline-block;" 
+  />
+</div>
+
 ```javascript
 const name = "Galih Adhi Kusuma"
-const job = "Full-stack web developer"
+const job = "Full-stack Engineer"
 ```
 ### Know more about me !
 
@@ -49,24 +72,3 @@ Hi, as you can see up there inside the silly logging. My name is Galih Adhi Kusu
 <br />
 
 
-## Statistic
- 
-![Github profile stats](https://github-readme-stats-sigma-five.vercel.app/api?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=contribs,issues)
-<br />
-![Top langugage stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=ejs,hack,html)
-
-<br />
-<div align="start">
-  <img
-    src="https://git-hub-streak-stats.vercel.app/?user=noxturnedev&theme=tokyonight&hide_border=true"
-    height="150"
-    alt="GitHub streak stats"
-    style="display:inline-block; margin-right:10px;" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxturnedev&theme=tokyonight&layout=compact&hide_border=true" 
-    height="150" 
-    alt="Top languages stats"
-    style="display:inline-block;" 
-  />
-</div>
