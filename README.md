@@ -54,3 +54,19 @@ Hi, as you can see up there inside the silly logging. My name is Galih Adhi Kusu
 ![Github profile stats](https://github-readme-stats-sigma-five.vercel.app/api?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=contribs,issues)
 <br />
 ![Top langugage stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=ejs,hack,html)
+
+<br />
+<div align="start">
+  <img
+    src="https://git-hub-streak-stats.vercel.app/?user=noxturnedev&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="GitHub streak stats"
+    style="display:inline-block; margin-right:10px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxturnedev&theme=tokyonight&layout=compact&hide_border=true" 
+    height="150" 
+    alt="Top languages stats"
+    style="display:inline-block;" 
+  />
+</div>
