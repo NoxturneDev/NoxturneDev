@@ -5,9 +5,8 @@
 
 ## Statistic
  
-![Github profile stats](https://github-readme-stats-sigma-five.vercel.app/api?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=contribs,issues)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NoxturneDev)](https://git.io/streak-stats)
 <br />
-![Top langugage stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=ejs,hack,html)
 
 <br />
 <div align="start">
